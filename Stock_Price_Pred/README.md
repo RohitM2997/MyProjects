@@ -1,4 +1,4 @@
-## MNIST Digit Recognition
+## Stock Price Prediction
 
 - **Dataset**
     
