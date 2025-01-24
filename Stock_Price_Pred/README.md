@@ -23,9 +23,8 @@
 # LSTM Model
 
 - **Architecture:**
-  - One LSTM layer.
+  - Three LSTM layers.
   - One output layer.
-  - Dropout applied to prevent overfitting.
 
 - **Compilation:**
   
@@ -37,9 +36,8 @@
 
 | LSTM Model    | Training data |  Test data    |
 |---------------|---------------|---------------|
-|     RMSE      |      61.83    |               | 
-|     MAE       |      49.82    |               | 
-|    R2 Score   |      0.210    |    0.090      | 
+|     RMSE      |    169.93     |    164.87     | 
+
 
 
 
